@@ -1,0 +1,11 @@
+#container{
+    width: 360px;
+    height: 640px;
+    /*background-color: skyblue;*/
+    background-image: url(./flappybirdbg.png);
+    margin:auto;
+}
+body{
+    text-align: center;
+
+}
