@@ -9,3 +9,18 @@ body{
     text-align: center;
 
 }
+.end {
+    text-align: center;
+    font-family: inherit;
+    font-size: medium;
+    padding: 5px;
+    color: yellow;
+    font-weight: bold;
+    margin-top: 10px;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%,-0.5%);
+    
+    width: 100%;
+}
